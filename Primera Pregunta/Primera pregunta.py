@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  9 20:01:01 2022
 
-@author: USUARIO
-"""
 
 import math
 
