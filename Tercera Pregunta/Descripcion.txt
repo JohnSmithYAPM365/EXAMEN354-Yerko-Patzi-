@@ -1,1 +1,3 @@
+3. Del dataset anterior realice en PYTHON, tres algoritmos de preprocesamiento.
+
 
