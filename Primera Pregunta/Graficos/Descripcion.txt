@@ -1,1 +1,1 @@
-
+c. Grafique los datos y explique su comportamiento (PYTHON)
