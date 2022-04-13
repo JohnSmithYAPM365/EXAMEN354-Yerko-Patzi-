@@ -1,1 +1,2 @@
+2. Del dataset anterior realice en WEKA, tres algoritmos de preprocesamiento.
 
