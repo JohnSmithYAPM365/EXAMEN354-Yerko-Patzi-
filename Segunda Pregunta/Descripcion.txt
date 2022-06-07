@@ -1,3 +1,5 @@
-2. Del dataset anterior realice en WEKA, tres algoritmos de preprocesamiento.
+2. Dado la función f(x) en excel realice al menos tres generaciones del funcionamiento del algoritmo genético.
+
+
 
 
